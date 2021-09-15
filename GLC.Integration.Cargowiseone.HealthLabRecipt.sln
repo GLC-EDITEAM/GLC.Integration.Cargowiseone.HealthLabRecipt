@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Integration.Cargowiseone.HealthLabRecipt.Schemas", "GLC.Integration.Cargowiseone.HealthLabRecipt.Schemas\GLC.Integration.Cargowiseone.HealthLabRecipt.Schemas.btproj", "{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Integration.Cargowiseone.HealthLabRecipt.PipelineComp", "GLC.Integration.Cargowiseone.HealthLabRecipt.PipelineComp\GLC.Integration.Cargowiseone.HealthLabRecipt.PipelineComp.csproj", "{4227C552-F63C-4136-8853-A72EF6ADF3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Integration.Cargowiseone.HealthLabRecipt.Pipeline", "GLC.Integration.Cargowiseone.HealthLabRecipt.Pipeline\GLC.Integration.Cargowiseone.HealthLabRecipt.Pipeline.btproj", "{52F30C41-8F18-4225-9F10-AB0B8E42F985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Integration.Cargowiseone.HealthLabRecipt.Orchestration", "GLC.Integration.Cargowiseone.HealthLabRecipt.Orchestration\GLC.Integration.Cargowiseone.HealthLabRecipt.Orchestration.btproj", "{09BE38CB-75EC-4D93-B283-0331B16EE528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EC2E51-2B2D-4ABE-85B8-86FB701A5751}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4227C552-F63C-4136-8853-A72EF6ADF3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4227C552-F63C-4136-8853-A72EF6ADF3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4227C552-F63C-4136-8853-A72EF6ADF3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4227C552-F63C-4136-8853-A72EF6ADF3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F30C41-8F18-4225-9F10-AB0B8E42F985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F30C41-8F18-4225-9F10-AB0B8E42F985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F30C41-8F18-4225-9F10-AB0B8E42F985}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{52F30C41-8F18-4225-9F10-AB0B8E42F985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F30C41-8F18-4225-9F10-AB0B8E42F985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F30C41-8F18-4225-9F10-AB0B8E42F985}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{09BE38CB-75EC-4D93-B283-0331B16EE528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BE38CB-75EC-4D93-B283-0331B16EE528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BE38CB-75EC-4D93-B283-0331B16EE528}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09BE38CB-75EC-4D93-B283-0331B16EE528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BE38CB-75EC-4D93-B283-0331B16EE528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BE38CB-75EC-4D93-B283-0331B16EE528}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
